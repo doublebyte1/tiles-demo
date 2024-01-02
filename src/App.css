@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.MapContainer { height: 500px; }
+
+.leaflet-container {
+  height: 500px;
+}
